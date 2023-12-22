@@ -7,9 +7,4 @@
     <UserSecretsId>82954635-7b43-475f-bf76-2a4a4692decc</UserSecretsId>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Content Remove="appsettings.Development.json" />
-    <Content Remove="appsettings.json" />
-  </ItemGroup>
-
 </Project>
